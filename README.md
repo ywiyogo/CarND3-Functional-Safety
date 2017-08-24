@@ -1,6 +1,6 @@
 # Functional Safety of a Lane Assistance System
 
-In this project, I've learned a functional safety framework based on the ISO 26262 standard to ensure that vehicles is safe, both at the system and component levels. The framework covers how to create and conduct:
+In this project, I've learned a functional safety framework based on the [ISO 26262](https://www.iso.org/standard/43464.html) standard to ensure that vehicles is safe, both at the system and component levels. The framework covers how to create and conduct:
 
 1. a safety plan document
 2. a hazard analysis and risk assessment
@@ -14,7 +14,7 @@ Analyzing and documenting system safety is critical for autonomous vehicle devel
 
 The scope of this project is not to do an entire functional safety analysis from scratch. Instead, I used the lane assistance example given in the lecture to complete the documentation. Please see the file Project_Instructions.pdf.
 
-##Results
+## Results
 
 * 01_SafetyPlan_LaneAssistance.pdf/odt
 
