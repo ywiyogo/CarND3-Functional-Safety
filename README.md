@@ -8,7 +8,9 @@ In this project, I've learned a functional safety framework based on the [ISO 26
 4. a technical safety document, and
 5. a software requirements and architecture documents
 
-I applied the framework and the concept to create a report that documents the functional safety of a lane assistance system. The five documents are simplified versions of what a functional safety manager would create as part of a safety case. 
+I applied the framework and the concept to create a report that documents the functional safety of a lane assistance system. The five documents are simplified versions of what a functional safety manager would create as part of a safety case. The figure below shows the system architecture of the lane assistance system:
+
+![alt text][image1]
 
 Analyzing and documenting system safety is critical for autonomous vehicle development. These are skills that often only experienced automotive engineers possess.
 
@@ -31,3 +33,6 @@ The scope of this project is not to do an entire functional safety analysis from
 
 * Udacity
 * @andrewsdc
+
+[//]: # (Image References)
+[image1]: ./Architecture_Diagrams/graphic_asset_2.png
